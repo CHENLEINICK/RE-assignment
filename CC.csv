@@ -1,0 +1,172 @@
+/s_home/lc443/Desktop/assignment-1-lovedzx/src/net/sf/freecol/tools/MergeTranslations.java,134
+Method,CC
+net/sf/freecol/tools/SaveGameValidator.<init>, 1
+
+net/sf/freecol/tools/SaveGameValidator.main, 7
+
+net/sf/freecol/tools/TranslationReport$1.<init>, 1
+
+net/sf/freecol/tools/TranslationReport$1.accept, 1
+
+net/sf/freecol/tools/TranslationReport$LanguageStatsRecord.<init>, 1
+
+net/sf/freecol/tools/MergeTranslations.<init>, 1
+
+net/sf/freecol/tools/MergeTranslations.main, 23
+
+net/sf/freecol/tools/MergeTranslations.readFile, 12
+
+net/sf/freecol/tools/MergeTranslations.lambda$0, 2
+
+net/sf/freecol/tools/ForestMaker$ImageLocation.<init>, 1
+
+net/sf/freecol/tools/ForestMaker$ImageLocation.compareTo, 2
+
+net/sf/freecol/tools/ForestMaker$ImageLocation.equals, 4
+
+net/sf/freecol/tools/ForestMaker$ImageLocation.hashCode, 1
+
+net/sf/freecol/tools/ForestMaker$ImageLocation.compareTo, 1
+
+net/sf/freecol/tools/FlagTest.<clinit>, 1
+
+net/sf/freecol/tools/FlagTest.<init>, 4
+
+net/sf/freecol/tools/FlagTest.itemStateChanged, 11
+
+net/sf/freecol/tools/FlagTest.actionPerformed, 1
+
+net/sf/freecol/tools/FlagTest.setColors, 3
+
+net/sf/freecol/tools/FlagTest.getNumbers, 2
+
+net/sf/freecol/tools/FlagTest.enable, 2
+
+net/sf/freecol/tools/FlagTest.main, 1
+
+net/sf/freecol/tools/ColonizationMapReader.<clinit>, 1
+
+net/sf/freecol/tools/ColonizationMapReader.<init>, 1
+
+net/sf/freecol/tools/ColonizationMapReader.main, 11
+
+net/sf/freecol/tools/ForestMaker.<clinit>, 1
+
+net/sf/freecol/tools/ForestMaker.<init>, 1
+
+net/sf/freecol/tools/ForestMaker.main, 28
+
+net/sf/freecol/tools/ColonizationSaveGameReader$Colonist.<init>, 1
+
+net/sf/freecol/tools/ColonizationSaveGameReader$Colonist.print, 2
+
+net/sf/freecol/tools/GenerateDocumentation$1.<init>, 1
+
+net/sf/freecol/tools/GenerateDocumentation$1.accept, 1
+
+net/sf/freecol/tools/ColonizationSaveGameReader$ColonyData.<init>, 4
+
+net/sf/freecol/tools/ColonizationSaveGameReader$ColonyData.print, 2
+
+net/sf/freecol/tools/TranslationReport.<init>, 1
+
+net/sf/freecol/tools/TranslationReport.main, 38
+
+net/sf/freecol/tools/TranslationReport.shortenName, 2
+
+net/sf/freecol/tools/TranslationReport.prettyPrint, 4
+
+net/sf/freecol/tools/TranslationReport.sort, 1
+
+net/sf/freecol/tools/MapConverter.<init>, 1
+
+net/sf/freecol/tools/MapConverter.main, 5
+
+net/sf/freecol/tools/ColonizationSaveGameReader$GameData.<init>, 1
+
+net/sf/freecol/tools/ColonizationSaveGameReader$GameData.print, 1
+
+net/sf/freecol/tools/ColonizationSaveGameReader$GameData.getNumberOfColonies, 1
+
+net/sf/freecol/tools/DesktopEntry.<clinit>, 1
+
+net/sf/freecol/tools/DesktopEntry.<init>, 1
+
+net/sf/freecol/tools/DesktopEntry.main, 17
+
+net/sf/freecol/tools/ColonizationSaveGameReader.<clinit>, 1
+
+net/sf/freecol/tools/ColonizationSaveGameReader.<init>, 1
+
+net/sf/freecol/tools/ColonizationSaveGameReader.main, 6
+
+net/sf/freecol/tools/ColonizationSaveGameReader.run, 3
+
+net/sf/freecol/tools/ColonizationSaveGameReader.getString, 2
+
+net/sf/freecol/tools/InstallerTranslations.<clinit>, 1
+
+net/sf/freecol/tools/InstallerTranslations.<init>, 1
+
+net/sf/freecol/tools/InstallerTranslations.main, 18
+
+net/sf/freecol/tools/InstallerTranslations.readFile, 12
+
+net/sf/freecol/tools/DesktopEntry$1.<init>, 1
+
+net/sf/freecol/tools/DesktopEntry$1.accept, 3
+
+net/sf/freecol/tools/MergeTranslations$1.<init>, 1
+
+net/sf/freecol/tools/MergeTranslations$1.accept, 1
+
+net/sf/freecol/tools/InstallerTranslations$1.<init>, 1
+
+net/sf/freecol/tools/InstallerTranslations$1.accept, 1
+
+net/sf/freecol/tools/ColonizationSaveGameReader$PlayerData.<init>, 2
+
+net/sf/freecol/tools/ColonizationSaveGameReader$PlayerData.print, 2
+
+net/sf/freecol/tools/GenerateDocumentation.<clinit>, 1
+
+net/sf/freecol/tools/GenerateDocumentation.<init>, 1
+
+net/sf/freecol/tools/GenerateDocumentation.main, 2
+
+net/sf/freecol/tools/GenerateDocumentation.readResources, 12
+
+net/sf/freecol/tools/GenerateDocumentation.generateDocumentation, 8
+
+net/sf/freecol/tools/GenerateDocumentation.getResource, 7
+
+net/sf/freecol/tools/GenerateDocumentation.localize, 1
+
+net/sf/freecol/tools/GenerateDocumentation.localize, 1
+
+net/sf/freecol/tools/FSGConverter.<clinit>, 1
+
+net/sf/freecol/tools/FSGConverter.<init>, 1
+
+net/sf/freecol/tools/FSGConverter.getFSGConverter, 3
+
+net/sf/freecol/tools/FSGConverter.convertToXML, 10
+
+net/sf/freecol/tools/FSGConverter.convertToXML, 22
+
+net/sf/freecol/tools/FSGConverter.printUsage, 1
+
+net/sf/freecol/tools/FSGConverter.main, 7
+
+net/sf/freecol/tools/RiverMaker.<clinit>, 1
+
+net/sf/freecol/tools/RiverMaker.<init>, 1
+
+net/sf/freecol/tools/RiverMaker.main, 8
+
+net/sf/freecol/tools/RiverMaker.nextBranch, 3
+
+net/sf/freecol/tools/RiverMaker.branchCount, 3
+
+net/sf/freecol/tools/RiverMaker.getName, 2
+
